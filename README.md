@@ -4,17 +4,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Blockchain+Innovator;Founder+%26+CEO+of+MSSWEB3;Building+Decentralized+AI+Systems" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seshashayanan-m-s-2325ab205/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SESHASHAYANAN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msseshashayanan2005@gmail.com)
-
 </div>
 
 ---
 
 ## 🚀 About Me
 
-> **Final-year B.Tech student** in **Artificial Intelligence and Data Science** at **Anna University** | CGPA: 8.0/10
+> **Second-year B.Tech student** in **Artificial Intelligence and Data Science** at **Indian Institute of Technology Bombay (IITB)** | CGPA: 8.0/10
 
 I'm a founder and builder working at the intersection of AI, blockchain, and decentralized systems[file:2]. Currently leading multiple projects focused on democratizing access to AI and Web3 technologies[file:2].
 
