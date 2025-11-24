@@ -119,16 +119,6 @@ I'm a founder and builder working at the intersection of AI, blockchain, and dec
 
 </div>
 
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seshashayanan-m-s-2325ab205/)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msseshashayanan2005@gmail.com)
-
-
 
 ---
 
