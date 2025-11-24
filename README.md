@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-> **Second-year B.Tech student** in **Artificial Intelligence and Data Science** at **Indian Institute of Technology Bombay (IITB)** | CGPA: 8.0/10
+> **Second-year B.Tech student** in **Electrical Engineering** at **Indian Institute of Technology Bombay (IITB)** | CGPA: 8.0/10
 
 I'm a founder and builder working at the intersection of AI, blockchain, and decentralized systems[file:2]. Currently leading multiple projects focused on democratizing access to AI and Web3 technologies[file:2].
 
