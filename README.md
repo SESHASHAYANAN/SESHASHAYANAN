@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm M.S. Seshashayanan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Blockchain+Innovator;Founder+%26+CEO+of+MSSWEB3;Building+Decentralized+AI+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+%26+Blockchain+Innovator;Founder+%26+CTO+of+MSSWEB3;Building+Decentralized+AI+Systems;Microsoft+Founders+Hub+Top+1-3%25;$20K+Hackathon+Winner" alt="Typing SVG" />
 
 </div>
 
@@ -10,118 +10,178 @@
 
 ## 🚀 About Me
 
-> **Second-year B.Tech student** in **Electrical Engineering** at **Indian Institute of Technology Bombay (IITB)** | CGPA: 8.0/10
+> **Second-year B.Tech student** in **Artificial Intelligence & Data Science** at **Anna University** | CGPA: 8.0/10
+> 
+> **Founder & CTO** of MSSWEB3 | **$20,000 Hackathon Winner** | **Microsoft Founders Hub Member (Top 1-3%)**
 
-I'm a founder and builder working at the intersection of AI, blockchain, and decentralized systems[file:2]. Currently leading multiple projects focused on democratizing access to AI and Web3 technologies[file:2].
+I'm a full-stack innovator and builder working at the intersection of AI, blockchain, and decentralized systems. Currently leading multiple groundbreaking projects focused on democratizing access to AI and Web3 technologies. Passionate about leveraging technology to solve real-world problems at scale.
+
+📧 **Email**: msseshashayanan2005@gmail.com  
+🔗 **LinkedIn**: [seshashayanan-m-s-2325ab205](https://www.linkedin.com/in/seshashayanan-m-s-2325ab205/)  
+💻 **GitHub**: [@SESHASHAYANAN](https://github.com/SESHASHAYANAN)
 
 ---
 
 ## 💼 Current Projects
 
 ### 🌐 MSSWEB3 - Decentralized AI-powered Internet Platform
-**Founder and CEO** | Aug 2022 - Current
+**Founder & CTO** | Aug 2022 - Oct 2025 | Microsoft Founders Hub Accelerator
 
-- Built Web3 platform using Python for on-chain AI agents and cryptocurrency transactions with TypeScript/React frontend[file:2]
-- Pioneered RAID-based distributed cloud architecture with end-to-end encryption[file:2]
-- Achieved top 1-3% admission to Microsoft Founders Hub[file:2]
-- Engineered 96% autonomous on-chain AI-crypto with Byzantine fault tolerance, cutting runtime costs by 95%[file:2]
+- Architected end-to-end Web3 platform leveraging Python backend for on-chain AI agents and cryptocurrency transactions with TypeScript/React frontend
+- Pioneered revolutionary RAID-based distributed cloud architecture with military-grade end-to-end encryption for data security
+- **Achievement**: Top 1-3% admission among 30,000+ global applicants to Microsoft Founders Hub accelerator program
+- Engineered 96% autonomous on-chain AI-crypto transaction execution with Byzantine fault tolerance mechanisms
+- Reduced runtime costs by 95% through optimized smart contract execution and distributed consensus protocols
+- Currently in advanced testing phase with institutional partnerships
 
-**Tech Stack**: Python, Solidity, TypeScript, React, JavaScript, Go, Web3.js, Unix/Linux[file:2]
+**Tech Stack**: Python, Solidity, TypeScript, React, JavaScript, Go, Web3.js, Unix/Linux, AWS
 
-### 📚 ORCA EDUCATE
-**Jul 2024 - Current**
+---
 
-- Built AI platform using LangChain on AWS (S3 and EC2) with Docker-based storage for generated videos and chat logs[file:2]
-- Engineered 2-minute AI video generation for personalized education with real-time translation across 100+ languages[file:2]
-- Selected as only Southeast Asian project among 20,000 applications for IEEE Malaysia 2025 conference[file:2]
-- Won best SDG 12 achievement and presented to 1000+ global leaders[file:2]
+### 📚 ORCA EDUCATE - AI-Powered Personalized Learning Platform
+**Founder & Lead Developer** | Nov 2024 - Mar 2025
 
-**Tech Stack**: Python, Docker, AWS (S3 and EC2), TypeScript[file:2]
+- Engineered industry-fastest **2-minute AI video generation** for personalized educational content with real-time translation across 100+ languages
+- Built custom deep learning agents using LangChain integrated with AWS (S3, EC2) and Docker containerization for scalable video storage and processing
+- Implemented sophisticated job search AI agents for career guidance and skill development recommendations
+- **Major Achievement**: Selected as **ONLY Southeast Asian project among 20,000+ applications** for IEEE Malaysia 2025 conference
+- **Awards**: Won best SDG 12 (Sustainable Consumption & Production) achievement with presentation to 1000+ global leaders
+- Deployed on production AWS infrastructure with real-time translation and streaming capabilities
+
+**Tech Stack**: Python, Docker, AWS (S3, EC2), TypeScript, LangChain, React
+
+---
 
 ### 🧠 Global Decentralized AI Training Infrastructure
-**Aug 2024 - Nov 2024**
+**Architect & Lead Engineer** | Aug 2024 - Jan 2025 | **$20,000 Hackathon Winner**
 
-- Developed distributed computing platform harnessing global free CPU and GPU resources[file:2]
-- Employed blockchain consensus mechanisms with Docker containerization and Kubernetes orchestration[file:2]
-- Cut overall AI model training costs by 90%[file:2]
-- Secured $20,000 in hackathon competition[file:2]
+- Developed revolutionary distributed computing platform harnessing **global free CPU and GPU resources** from volunteers worldwide
+- Implemented blockchain-based consensus mechanisms (Proof-of-Contribution) ensuring transparent reward distribution for computational resources
+- Deployed Docker containerization and Kubernetes orchestration for seamless job distribution and resource management across thousands of nodes
+- **Impact**: Reduced overall AI model training costs by **90%** compared to traditional cloud infrastructure
+- **Recognition**: Solo winner among 3,000+ global submissions, securing $20,000 in prestigious international hackathon competition
+- Successfully trained multiple large-scale AI models on the platform with demonstrated cost-efficiency and reliability
 
-**Tech Stack**: Vue.js, Docker, Python, Solidity, Kubernetes[file:2]
-
-### ♿ BioRegenic Innovators - Smart Rehab AI Chair
-**Nov 2023 - May 2025**
-
-- Spearheaded AI smart rehabilitation chair using LIDAR & biometric sensors for precision therapy[file:2]
-- Reduced costs by 75% and accelerated recovery by 60% using Docker containerized AI models[file:2]
-- Selected as only healthcare-themed finalist for Global Student Entrepreneurship Awards 2025[file:2]
-- Achieved 80% accuracy using open-source AI models[file:2]
-
-**Tech Stack**: Vue.js, Docker, Kubernetes, Python, Go, Node.js[file:2]
+**Tech Stack**: Vue.js, Docker, Kubernetes, Python, Solidity, Web3.js, Linux
 
 ---
 
-## 🛠️ Tech Stack
+### ♿ BioRegenic - Smart Rehabilitation AI Chair System
+**Co-Founder & AI Lead Engineer** | Nov 2022 - May 2024
 
-<div align="center">
+- Spearheaded development of AI-powered smart rehabilitation chair integrating LIDAR sensors and biometric sensors (EMG, accelerometer, heart rate monitoring)
+- Engineered Docker-containerized AI models for real-time motion tracking, posture correction, and therapy precision
+- Achieved **80% accuracy** using optimized open-source AI models (TensorFlow, PyTorch) for rehabilitation exercise detection
+- **Cost Reduction**: Reduced medical rehabilitation equipment costs by **75%** making advanced therapy accessible to underserved communities
+- **Clinical Impact**: Demonstrated **60% acceleration** in patient recovery times through personalized therapy protocols
+- **Major Achievement**: Selected as **ONLY healthcare-themed finalist** for Global Student Entrepreneurship Awards 2025
+- Deployed Kubernetes for multi-tenant healthcare provider support with HIPAA-compliant data handling
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
+**Tech Stack**: Vue.js, Docker, Kubernetes, Python, Go, Node.js, TensorFlow, PyTorch
 
 ---
 
-## 🏆 Leadership & Awards
+### 💼 EXTION, Bangalore - Financial AI Analytics
+**Data Analyst & Machine Learning Engineer** | Jul 2024 - Aug 2024
 
-- **AI Club President** leading 880 students across 15 projects in AI innovation and full-stack development[file:2]
-- **$20K hackathon winner** from 3,000+ submissions[file:2]
-- **Microsoft Founders Hub** top 1-3% selection from 30K applicants as MSSWEB3 CEO[file:2]
-- **Only Southeast Asian IEEE Malaysia 2025 finalist** from 20K applications[file:2]
-- **SDG 12 winner**, presented to 1000+ global leaders[file:2]
+- Developed ML-based financial analysis tool for automated stock evaluation and real-time company performance tracking
+- Implemented advanced predictive modeling using time-series analysis and ensemble methods achieving **80% accuracy**
+- Built data processing pipeline handling high-frequency market data with real-time alerts and recommendations
+- Created interactive dashboards for institutional clients for data-driven investment decisions
+
+**Tech Stack**: Python, Pandas, Scikit-Learn, XGBoost, SQL
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack & Expertise
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SESHASHAYANAN&theme=radical&hide_border=true)](https://github.com/SESHASHAYANAN)
+### 🔤 Languages
+- Python, TypeScript, JavaScript, Go, Solidity, SQL, R
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SESHASHAYANAN&show_icons=true&theme=radical&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SESHASHAYANAN&layout=compact&theme=radical&hide_border=true" />
+### 🎯 Frontend & Web
+- React, Vue.js, Next.js, Tailwind CSS, HTML/CSS
 
-</div>
+### ⚙️ Backend & Infrastructure
+- Node.js, Docker, Kubernetes, AWS, Azure, SAP
+
+### 🔗 Blockchain & Web3
+- Smart Contracts, Web3.js, Ethereum, DeFi Protocols
+
+### 🤖 AI & Machine Learning
+- TensorFlow, PyTorch, LangChain, Scikit-Learn, XGBoost
+
+### 📊 Data & Databases
+- PostgreSQL, MongoDB, Redis, MySQL
+
+---
+
+## 🏆 Leadership, Awards & Recognition
+
+### 🥇 Major Awards & Achievements
+
+| Award | Recognition | Date |
+|-------|-------------|------|
+| **$20,000 Hackathon Winner** | Solo winner among 3,000+ global submissions for Global Decentralized AI Training Infrastructure | Jan 2025 |
+| **Microsoft Founders Hub** | Top 1-3% selection among 30,000+ global applicants for MSSWEB3 | 2024-2025 |
+| **IEEE Malaysia 2025 Finalist** | Only Southeast Asian project selected among 20,000+ applications for ORCA EDUCATE | 2025 |
+| **SDG 12 Winner** | Best achievement in Sustainable Consumption & Production, presented to 1000+ global leaders | 2025 |
+| **Global Student Entrepreneurship Awards 2025** | Only healthcare-themed finalist for BioRegenic AI Chair project | 2025 |
+
+---
+
+### 📚 Leadership Roles
+
+- **AI Club President** - Leading 880+ students across 15+ concurrent AI and full-stack development projects
+- **Founder & CTO** - MSSWEB3 (Microsoft Founders Hub member, decentralized AI platform)
+- **Project Lead** - Multiple international hackathons and innovation competitions
+- **Mentor** - Guiding emerging developers and startups in AI, blockchain, and full-stack development
+
+---
+
+## 📚 Education
+
+**Anna University**  
+B.Tech in **Artificial Intelligence and Data Science**  
+**Duration**: Nov 2022 - Sep 2026  
+**CGPA**: 8.0/10
+
+**Specializations**: Machine Learning, Deep Learning, Data Science, Web3 Development, Distributed Systems
+
+---
+
+## 📊 GitHub Statistics
+
+- **GitHub Streak**: [View Profile](https://github.com/SESHASHAYANAN)
+- **Repository Stats**: Leading contributor in AI, blockchain, and full-stack development projects
+- **Most Used Languages**: Python, TypeScript, JavaScript, Solidity
 
 ---
 
 ## 🎯 Featured Repositories
 
-<div align="center">
-
-[![MSSWEB3](https://github-readme-stats.vercel.app/api/pin/?username=SESHASHAYANAN&repo=Web3-Blockchain&theme=radical&hide_border=true)](https://github.com/SESHASHAYANAN/Web3-Blockchain)
-[![EDUCATE AI](https://github-readme-stats.vercel.app/api/pin/?username=SESHASHAYANAN&repo=EDUCATE_AI&theme=radical&hide_border=true)](https://github.com/SESHASHAYANAN/EDUCATE_AI)
-
-[![ORCA BITCOIN](https://github-readme-stats.vercel.app/api/pin/?username=SESHASHAYANAN&repo=ORCA_BITCOIN3.0&theme=radical&hide_border=true)](https://github.com/SESHASHAYANAN/ORCA_BITCOIN3.0)
-[![Self Operating Computer](https://github-readme-stats.vercel.app/api/pin/?username=SESHASHAYANAN&repo=self-operating-computer&theme=radical&hide_border=true)](https://github.com/SESHASHAYANAN/self-operating-computer)
-
-</div>
-
+- **MSSWEB3** - Decentralized AI-powered Internet Platform
+- **ORCA EDUCATE AI** - AI-Powered Personalized Learning Platform
+- **ORCA BITCOIN 3.0** - Blockchain Innovation Project
+- **Self Operating Computer** - AI-powered Autonomous System
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=SESHASHAYANAN&style=for-the-badge&color=blue" alt="Profile views" />
+## 🎨 Specialization Areas
 
-</div>
+| Domain | Expertise | Projects |
+|--------|-----------|----------|
+| **🔗 Blockchain & Web3** | Smart Contracts, DeFi, Consensus Mechanisms, On-chain AI | MSSWEB3, Decentralized AI Training |
+| **🤖 AI & Machine Learning** | Deep Learning, NLP, Computer Vision, AI Agents | ORCA EDUCATE, BioRegenic, EXTION |
+| **☁️ Cloud Infrastructure** | AWS, Azure, Docker, Kubernetes, Distributed Systems | All major projects |
+| **💻 Full-Stack Development** | MERN Stack, Vue.js, Backend Architecture | Multiple production systems |
+| **🏥 Healthcare Tech** | Medical Device Integration, Biometric Sensors, AI Diagnostics | BioRegenic |
+
+---
+
+## 🌐 Connect With Me
+
+- **LinkedIn**: [seshashayanan-m-s-2325ab205](https://www.linkedin.com/in/seshashayanan-m-s-2325ab205/)
+- **GitHub**: [@SESHASHAYANAN](https://github.com/SESHASHAYANAN)
+- **Email**: msseshashayanan2005@gmail.com
+
+**Open to**: Collaborations | Speaking Engagements | Advisory Roles | Investment Opportunities
