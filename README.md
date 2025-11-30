@@ -95,23 +95,51 @@ I'm a full-stack innovator and builder working at the intersection of AI, blockc
 
 ## 🛠️ Tech Stack & Expertise
 
+<div align="center">
+
 ### 🔤 Languages
-- Python, TypeScript, JavaScript, Go, Solidity, SQL, R
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 🎯 Frontend & Web
-- React, Vue.js, Next.js, Tailwind CSS, HTML/CSS
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend & Infrastructure
-- Node.js, Docker, Kubernetes, AWS, Azure, SAP
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAADC?style=for-the-badge&logo=sap&logoColor=white)
 
 ### 🔗 Blockchain & Web3
-- Smart Contracts, Web3.js, Ethereum, DeFi Protocols
+![Solidity](https://img.shields.io/badge/Smart%20Contracts-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)
+![DeFi](https://img.shields.io/badge/DeFi%20Protocols-FF007A?style=for-the-badge&logo=chainlink&logoColor=white)
 
 ### 🤖 AI & Machine Learning
-- TensorFlow, PyTorch, LangChain, Scikit-Learn, XGBoost
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-004B87?style=for-the-badge&logo=xgboost&logoColor=white)
 
 ### 📊 Data & Databases
-- PostgreSQL, MongoDB, Redis, MySQL
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
 
 ---
 
@@ -151,18 +179,32 @@ B.Tech in **Artificial Intelligence and Data Science**
 
 ## 📊 GitHub Statistics
 
-- **GitHub Streak**: [View Profile](https://github.com/SESHASHAYANAN)
-- **Repository Stats**: Leading contributor in AI, blockchain, and full-stack development projects
-- **Most Used Languages**: Python, TypeScript, JavaScript, Solidity
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SESHASHAYANAN&theme=radical&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=00D9FF)](https://github.com/SESHASHAYANAN)
+
+</div>
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SESHASHAYANAN&show_icons=true&theme=radical&hide_border=true&title_color=00D9FF&icon_color=00D9FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SESHASHAYANAN&layout=compact&theme=radical&hide_border=true&title_color=00D9FF" />
+
+</div>
 
 ---
 
 ## 🎯 Featured Repositories
 
-- **MSSWEB3** - Decentralized AI-powered Internet Platform
-- **ORCA EDUCATE AI** - AI-Powered Personalized Learning Platform
-- **ORCA BITCOIN 3.0** - Blockchain Innovation Project
-- **Self Operating Computer** - AI-powered Autonomous System
+<div align="center">
+
+[![MSSWEB3](https://github-readme-stats.vercel.app/api/pin/?username=SESHASHAYANAN&repo=Web3-Blockchain&theme=radical&hide_border=true&title_color=00D9FF)](https://github.com/SESHASHAYANAN/Web3-Blockchain)
+[![ORCA EDUCATE AI](https://github-readme-stats.vercel.app/api/pin/?username=SESHASHAYANAN&repo=EDUCATE_AI&theme=radical&hide_border=true&title_color=00D9FF)](https://github.com/SESHASHAYANAN/EDUCATE_AI)
+
+[![ORCA BITCOIN 3.0](https://github-readme-stats.vercel.app/api/pin/?username=SESHASHAYANAN&repo=ORCA_BITCOIN3.0&theme=radical&hide_border=true&title_color=00D9FF)](https://github.com/SESHASHAYANAN/ORCA_BITCOIN3.0)
+[![Self Operating Computer](https://github-readme-stats.vercel.app/api/pin/?username=SESHASHAYANAN&repo=self-operating-computer&theme=radical&hide_border=true&title_color=00D9FF)](https://github.com/SESHASHAYANAN/self-operating-computer)
+
+</div>
 
 ---
 
@@ -180,8 +222,11 @@ B.Tech in **Artificial Intelligence and Data Science**
 
 ## 🌐 Connect With Me
 
-- **LinkedIn**: [seshashayanan-m-s-2325ab205](https://www.linkedin.com/in/seshashayanan-m-s-2325ab205/)
-- **GitHub**: [@SESHASHAYANAN](https://github.com/SESHASHAYANAN)
-- **Email**: msseshashayanan2005@gmail.com
+<div align="center">
+
+[**LinkedIn**](https://www.linkedin.com/in/seshashayanan-m-s-2325ab205/) • [**GitHub**](https://github.com/SESHASHAYANAN) • [**Email**](mailto:msseshashayanan2005@gmail.com)
 
 **Open to**: Collaborations | Speaking Engagements | Advisory Roles | Investment Opportunities
+
+</div>
+
